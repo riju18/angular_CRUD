@@ -3,7 +3,7 @@
     host    : localhost
     user    : root
     pass    : ""
-    db_name : Angulartest
+    db_name : angulartest
     
     table name : user
     column no  : 3
